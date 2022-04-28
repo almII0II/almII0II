@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Git
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on study
-- 📫 How to reach me anna-liisa.matala-aho@hotmail.com
+- 📫 How to reach me just now you can't
 
 <!---
 almII0II/almII0II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
